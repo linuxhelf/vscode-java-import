@@ -1,0 +1,3 @@
+rootProject.name = 'vscode-java-import'
+
+include('app')
