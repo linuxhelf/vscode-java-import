@@ -7,7 +7,7 @@ repositories {
 }
 
 dependencies {
-  //implementation 'org.json:json:20240303'
+  implementation 'org.json:json:20240303'
 }
 
 application {
